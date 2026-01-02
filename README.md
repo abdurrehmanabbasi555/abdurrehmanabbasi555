@@ -119,23 +119,33 @@ Building enterprise-grade full-stack applications with focus on:
 
 ## 🏆 Featured Projects
 
-### 📌 Library-Management-System 
-A clean and simple Library Management System to manage books and members with full CRUD, borrow/return tracking, and detailed borrow history. Features a fast, user-friendly UI with search and pagination.
-- **Tech Stack:** ASP.NET Core 9.0, Entity Framework Core, SQL Server, JWT Authentication
-- **Features:** CRUD operations, JWT authentication, Swagger documentation, DTOs
-- 🔗 [View Repository]((https://github.com/abdurrehmanabbasi555/Library-Management-System))
+### 📌 Library Management System
+A comprehensive ASP.NET Core MVC web application for managing library operations including book inventory, member management, and borrowing system.
+- **Tech Stack:** ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap
+- **Features:** Book catalog management, member registration, issue/return tracking, fine calculation, search & filter functionality
+- **Highlights:** User-friendly GUI, database integration, CRUD operations
+- 🔗 [View Repository](https://github.com/abdurrehmanabbasi555/Library-Management-System)
 
-### 📌 [Project Name 2]
-Brief description of your second notable project.
-- **Tech Stack:** Technologies used
-- **Features:** Key features
-- 🔗 [View Repository](link-to-repo) | [Live Demo](link-to-demo)
+### 📌 MyJokesApp
+An ASP.NET Core MVC web application that allows users to browse, search, and share jokes with an interactive and fun interface.
+- **Tech Stack:** ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap
+- **Features:** Joke CRUD operations, search functionality, category filtering, responsive design, user authentication
+- **Highlights:** MVC architecture, database-first approach, clean UI/UX
+- 🔗 [View Repository](https://github.com/abdurrehmanabbasi555/MyJokesApp)
 
-### 📌 [Project Name 3]
-Brief description of your third notable project.
-- **Tech Stack:** Technologies used
-- **Features:** Key features
-- 🔗 [View Repository](link-to-repo) | [Live Demo](link-to-demo)
+### 📌 Currency Converter
+An easy to use Currency Convertor I made using React.js Tailwind CSS, integrating real-time data about currencies globally with the help of currencyAPI to provide us with accurate results. 
+- **Tech Stack:** React.js, Tailwind CSS, JavaScript (ES6+), REST API
+- **Features:** Real-time currency conversion, multiple currency support, clean and intuitive interface, API integration
+- **Highlights:** Asynchronous JavaScript, API consumption, responsive design
+- 🔗 [View Repository](https://github.com/abdurrehmanabbasi555/currency-convertor) | [Live Demo](https://easy-currency-convertor.netlify.app/)
+
+### 📌 Tic Tac Toe Game
+A classic Tic Tac Toe game built with C# Web Forms featuring an interactive UI and smart game logic.
+- **Tech Stack:** C#, C# Web Forms
+- **Features:** Two-player gameplay, win detection algorithm, draw condition handling, score tracking, reset functionality
+- **Highlights:** DOM manipulation, game logic implementation, responsive design
+- 🔗 [View Repository](https://github.com/abdurrehmanabbasi555/TicTacToe)
 
 > 📂 **Explore more projects in my [repositories](https://github.com/abdurrehmanabbasi555?tab=repositories)**
 
@@ -155,7 +165,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdurrehman-abbasi-173217226/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrehman-abbasi-173217226/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasiabdurrehman555@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrehmanabbasi555)
 
