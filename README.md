@@ -4,9 +4,9 @@
 
 ### Software Developer | Building Scalable Web Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/abdurrehman-abbasi-173217226/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdurrehman-abbasi-173217226/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasiabdurrehman555@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([your-portfolio-url](https://abdurrehmanabbasi-portfolio.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]((https://abdurrehmanabbasi-portfolio.netlify.app/))
 
 </div>
 
@@ -66,11 +66,11 @@ I'm a passionate **Full-Stack Developer** from Karachi, Pakistan, specializing i
 
 <div align="center">
   
-![Abdurrehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Abdurrehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrehmanabbasi555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehmanabbasi555&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurrehmanabbasi555&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -119,11 +119,11 @@ Building enterprise-grade full-stack applications with focus on:
 
 ## 🏆 Featured Projects
 
-### 📌 Employee Management API
-A comprehensive RESTful API built with ASP.NET Core for managing employee records and departments.
+### 📌 Library-Management-System 
+A clean and simple Library Management System to manage books and members with full CRUD, borrow/return tracking, and detailed borrow history. Features a fast, user-friendly UI with search and pagination.
 - **Tech Stack:** ASP.NET Core 9.0, Entity Framework Core, SQL Server, JWT Authentication
 - **Features:** CRUD operations, JWT authentication, Swagger documentation, DTOs
-- 🔗 [View Repository](link-to-repo)
+- 🔗 [View Repository]((https://github.com/abdurrehmanabbasi555/Library-Management-System))
 
 ### 📌 [Project Name 2]
 Brief description of your second notable project.
@@ -137,7 +137,7 @@ Brief description of your third notable project.
 - **Features:** Key features
 - 🔗 [View Repository](link-to-repo) | [Live Demo](link-to-demo)
 
-> 📂 **Explore more projects in my [repositories](https://github.com/yourusername?tab=repositories)**
+> 📂 **Explore more projects in my [repositories](https://github.com/abdurrehmanabbasi555?tab=repositories)**
 
 ---
 
@@ -155,9 +155,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/abdurrehman-abbasi-173217226/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdurrehman-abbasi-173217226/))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasiabdurrehman555@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurrehmanabbasi555)
 
 **📍 Based in Karachi, Pakistan**
 
